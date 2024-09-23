@@ -35,4 +35,11 @@ the payload size is 48 bytes
 
 ![exercise3](exercise3.png)
 
-
+exercise3.2.1
+![exercise3.2.1](exercise3.2.1.png)
+exercise3.2.2
+![exercise3.2.2](exercise3.2.2.png)
+exercise3.2.3
+![exercise3.2.3](exercise3.2.3.png)
+exercise3.2.3real
+![exercise3.2.3real](exercise3.2.3real.png)
