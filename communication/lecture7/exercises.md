@@ -1,5 +1,7 @@
 # Exercise 1
 
+I think it is illegal:)
+
 # Exercise 2
 
 ![exercise2](exercise2.png)
@@ -22,4 +24,11 @@ ICMP
 
 ICMPv6
 
+
+the payload size is 48 bytes
+
 # Exercise 3
+
+![exercise3](exercise3.png)
+
+
