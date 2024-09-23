@@ -24,6 +24,10 @@ ICMP
 
 ICMPv6
 
+This is the flow graph:
+
+![flowgraph](flowgraph_exercise2.png)
+
 
 the payload size is 48 bytes
 
