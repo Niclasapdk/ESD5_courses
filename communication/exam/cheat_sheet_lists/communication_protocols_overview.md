@@ -151,3 +151,19 @@ DNS resolves domain names into IP addresses.
 DNS messages vary in size but typically range from 20–512 bytes.
 
 ---
+
+### **Ethernet**
+Frame Structure
+Preamble: 7 bytes used to alert receiving system to incoming data and to synchronize clocks.
+Start Frame Delimiter (SFD): 1 byte that signifies the start of the frame data.
+Destination MAC Address: 6 bytes identifying the recipient's network interface.
+Source MAC Address: 6 bytes identifying the sender's network interface.
+Type: 2 bytes defining the type of the Ethernet packet, which indicates the protocol encapsulated in the payload.
+Payload: 46-1500 bytes containing the actual data. The minimum payload size is 46 bytes to ensure that the frame is long enough for collision detection.
+Frame Check Sequence (FCS): 4 bytes for error checking; detects errors in the transmission.
+
+Total size = 28 bytes.
+
+But earlier exams use 18 bytes :)
+
+---
